@@ -10,3 +10,6 @@
 1. firebaseの基本操作(Cloud Firestore、Authentication)
 1. コンポーネント機能
 1. ログイン、ログアウト機能
+
+# 動画
+![20240112_memo_app](https://github.com/Kacasss/text_memo_app/assets/91928341/46613453-60b6-4818-9343-323db0addfbd)
