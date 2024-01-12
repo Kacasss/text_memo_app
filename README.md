@@ -1,5 +1,5 @@
 # text_memo_app（メモアプリ）
-- 作成時期：令和4年 11月～12月
+- 作成時期：令和4年12月～令和5年1月
 - 所要時間：70時間程
 - 協力者：有　講師
 - 開発環境：JavaScript（React.js、next.js）、HTML、CSS（BootStrap）、DB（firebase）
