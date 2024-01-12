@@ -2,7 +2,7 @@
 - 作成時期：令和4年12月～令和5年1月
 - 所要時間：70時間程
 - 協力者：有　講師
-- 開発環境：JavaScript（React.js、next.js）、HTML、CSS（BootStrap）、DB（firebase）
+- 開発環境：JavaScript（React.js、next.js）、HTML、CSS（Bootstrap）、DB（firebase）
 - 感想：書籍や動画を参考にして作成しました。React.jsの理解があやふやな点と、書籍が古い為エラーが多く発生しましたが、その度に自己解決に励みました。
 
 # 習得内容
